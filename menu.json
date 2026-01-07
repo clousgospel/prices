@@ -1,0 +1,69 @@
+{
+    "currency": "₺",
+    "sections": [
+        {
+            "id": "mezze",
+            "title": "MEZZE",
+            "items": [
+                {
+                    "name": "Nammos Tzatziki",
+                    "description": "Greek yogurt, cucumber, garlic, dill, olive oil",
+                    "price": "14",
+                    "allergens": "Dairy"
+                },
+                {
+                    "name": "Tarama",
+                    "description": "Cod roe mousse, olive oil, lemon, bread crumbs",
+                    "price": "16",
+                    "allergens": "Gluten, Fish"
+                }
+            ]
+        },
+        {
+            "id": "small_plates",
+            "title": "SMALL PLATES",
+            "items": [
+                {
+                    "name": "Calamari",
+                    "description": "Fried squid, lemon, tzatziki",
+                    "price": "22",
+                    "allergens": "Gluten, Molluscs"
+                }
+            ]
+        },
+        {
+            "id": "big_plates",
+            "title": "BIG PLATES",
+            "items": [
+                {
+                    "name": "Lamb Chops",
+                    "description": "Grilled lamb chops, oregano, lemon potato",
+                    "price": "45"
+                }
+            ]
+        },
+        {
+            "id": "sides",
+            "title": "SIDES",
+            "items": [
+                {
+                    "name": "Greek Salad",
+                    "description": "Tomato, cucumber, peppers, onion, feta, olives",
+                    "price": "18",
+                    "allergens": "Dairy"
+                }
+            ]
+        },
+        {
+            "id": "white_wine",
+            "title": "WHITE",
+            "items": [
+                {
+                    "name": "2023 FLORINA DROUMO",
+                    "description": "Sauvignon Blanc",
+                    "price": "14"
+                }
+            ]
+        }
+    ]
+}
