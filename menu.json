@@ -2,9 +2,15 @@
     "currency": "₺",
     "sections": [
         {
-            "id": "mezze",
-            "title": "MEZZE",
+            "id": "meze",
+            "title": "MEZE",
             "items": [
+                   {
+                    "name": "Börek",
+                    "description": "Pudra şekeri, un, yağ",
+                    "price": "150",
+                    "allergens": "Dairy"
+                },
                 {
                     "name": "Nammos Tzatziki",
                     "description": "Greek yogurt, cucumber, garlic, dill, olive oil",
@@ -66,4 +72,5 @@
             ]
         }
     ]
+
 }
