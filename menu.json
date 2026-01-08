@@ -61,6 +61,15 @@
             ]
         },
         {
+            "id": "sarap",
+            "title": "ŞARAP",
+            "items": [
+                {
+                    "name": "2023 FLORINA DROUMO",
+                    "description": "Sauvignon Blanc",
+                    "price": "14"
+                }
+        {
             "id": "white_wine",
             "title": "WHITE",
             "items": [
@@ -74,4 +83,5 @@
     ]
 
 }
+
 
