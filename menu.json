@@ -12,7 +12,7 @@
                     "allergens": "Dairy"
                 },
                 {
-                    "name": "Nammos Tzatziki",
+                    "name": "Tzatziki",
                     "description": "Greek yogurt, cucumber, garlic, dill, olive oil",
                     "price": "14",
                     "allergens": "Dairy"
@@ -74,3 +74,4 @@
     ]
 
 }
+
