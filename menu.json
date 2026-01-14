@@ -2,86 +2,78 @@
     "currency": "₺",
     "sections": [
         {
-            "id": "meze",
-            "title": "MEZE",
+            "id": "baslangiclar",
+            "title": "BAŞLANGIÇLAR",
             "items": [
-                   {
-                    "name": "Börek",
-                    "description": "Pudra şekeri, un, yağ",
-                    "price": "150",
-                    "allergens": "Dairy"
+                {
+                    "name": "MEO Atom",
+                    "description": "Süzme yoğurt, kurutulmuş Arnavut biberi, tereyağı sosu",
+                    "price": "140"
                 },
                 {
-                    "name": "Tzatziki",
-                    "description": "Greek yogurt, cucumber, garlic, dill, olive oil",
-                    "price": "14",
-                    "allergens": "Dairy"
+                    "name": "Girit Ezmesi",
+                    "description": "Beyaz peynir, lor, ceviz, antep fıstığı, zeytinyağı",
+                    "price": "160"
                 },
                 {
-                    "name": "Tarama",
-                    "description": "Cod roe mousse, olive oil, lemon, bread crumbs",
-                    "price": "16",
-                    "allergens": "Gluten, Fish"
+                    "name": "Humus",
+                    "description": "Nohut, tahin, limon, kimyon, tereyağlı pastırma",
+                    "price": "180"
                 }
             ]
         },
         {
-            "id": "small_plates",
-            "title": "SMALL PLATES",
+            "id": "ana_yemekler",
+            "title": "ANA YEMEKLER",
             "items": [
                 {
-                    "name": "Calamari",
-                    "description": "Fried squid, lemon, tzatziki",
-                    "price": "22",
-                    "allergens": "Gluten, Molluscs"
+                    "name": "Izgara Köfte",
+                    "description": "Dana kıyma, özel baharatlar, közlenmiş biber ve domates ile",
+                    "price": "450"
+                },
+                {
+                    "name": "Çökertme Kebabı",
+                    "description": "Kibrit patates yatağında bonfile dilimleri, sarımsaklı yoğurt",
+                    "price": "580"
+                },
+                {
+                    "name": "Levrek Izgara",
+                    "description": "Taze deniz levreği, roka ve soğan salatası eşliğinde",
+                    "price": "600"
                 }
             ]
         },
         {
-            "id": "big_plates",
-            "title": "BIG PLATES",
+            "id": "ara_sicaklar",
+            "title": "ARA SICAKLAR",
             "items": [
                 {
-                    "name": "Lamb Chops",
-                    "description": "Grilled lamb chops, oregano, lemon potato",
-                    "price": "45"
+                    "name": "Karides Güveç",
+                    "description": "Tereyağlı, sarımsaklı, pul biberli jumbo karides",
+                    "price": "350"
+                },
+                {
+                    "name": "Paçanga Böreği",
+                    "description": "Pastırma, kaşar peyniri, domates, biber",
+                    "price": "120"
                 }
             ]
         },
         {
-            "id": "sides",
-            "title": "SIDES",
+            "id": "tatlilar",
+            "title": "TATLILAR",
             "items": [
                 {
-                    "name": "Greek Salad",
-                    "description": "Tomato, cucumber, peppers, onion, feta, olives",
-                    "price": "18",
-                    "allergens": "Dairy"
-                }
-            ]
-        },
-        {
-            "id": "sarap",
-            "title": "ŞARAP",
-            "items": [
+                    "name": "Fırın Sütlaç",
+                    "description": "Geleneksel usul, fındık kırığı ile",
+                    "price": "90"
+                },
                 {
-                    "name": "2023 FLORINA DROUMO",
-                    "description": "Sauvignon Blanc",
-                    "price": "14"
-                }
-        {
-            "id": "white_wine",
-            "title": "WHITE",
-            "items": [
-                {
-                    "name": "2023 FLORINA DROUMO",
-                    "description": "Sauvignon Blanc",
-                    "price": "14"
+                    "name": "Çikolatalı Sufle",
+                    "description": "Sıcak akışkan çikolata, vanilyalı dondurma ile",
+                    "price": "150"
                 }
             ]
         }
     ]
-
 }
-
-
